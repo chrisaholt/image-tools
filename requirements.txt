@@ -1,0 +1,9 @@
+ffmpeg
+jupyterlab
+matplotlib
+numpy
+opencv-python
+pandas
+plotly
+scikit-learn
+scipy
