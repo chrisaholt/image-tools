@@ -1,9 +1,10 @@
 ffmpeg
 jupyterlab
 matplotlib
-numpy
+numpy<2.0
 opencv-python
 pandas
 plotly
 scikit-learn
 scipy
+svgwrite
